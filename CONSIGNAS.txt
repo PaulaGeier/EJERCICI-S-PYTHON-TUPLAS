@@ -1,0 +1,52 @@
+CONSIGNAS EJERCITACIÓN EN PYTHON DE TUPLAS
+
+🟢 Nivel 1 – Facil 
+
+1. Crear una tupla con tres elementos numéricos.
+
+2. Mostrar el primer y último elemento de una tupla.
+
+3. Verificar si un número existe en una tupla.
+
+4. Obtener el índice de un valor.
+
+5. Contar cuántas veces aparece un elemento.
+
+6. Recorrer una tupla e imprimir sus elementos.
+
+7. Obtener una sub-tupla (slice del 2° al 4° elemento).
+
+---------------------------------------------------------------------
+🟡 Nivel 2 – Intermedio
+
+8. Unir dos tuplas en una nueva.
+
+9. Convertir una lista en tupla y viceversa.
+
+10. Ordenar una tupla de números de menor a mayor.
+
+11. Encontrar el valor máximo y el mínimo de una tupla numérica.
+
+12.Crear una tupla con strings y mostrar solo los que tienen más de 5 letras.
+
+13. Crear una tupla de 10 números y mostrar solo los números pares.
+
+14. Contar cuántos elementos de una tupla de nombres comienzan con vocal.
+
+---------------------------------------------------------------------
+🟠 Nivel 3 – Intermedio Alto
+
+15. Crear una tupla de tuplas con nombre y edad, y mostrar solo las personas mayores de 18.
+
+16. Sumar todos los elementos de una tupla numérica.
+
+17. Dada una tupla anidada con pares de números, sumar cada par y mostrar los resultados.
+
+---------------------------------------------------------------------
+🔴 Nivel 4 – Avanzado
+
+18. Crear una función que reciba una tupla de números y devuelva otra con solo los que estén entre 10 y 20.
+
+19. Dada una tupla con datos de personas (nombre, edad, ciudad), imprimirlos en formato legible.
+
+20. Crear una tupla de tuplas con nombre y puntaje, y ordenarla por puntaje en orden descendente.
