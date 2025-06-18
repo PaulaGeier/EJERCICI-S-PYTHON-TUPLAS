@@ -45,7 +45,7 @@ Funciones personalizadas, formateo y ordenamiento de tuplas complejas.
 1. Cloná el repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/tuplas-python.git
+git clone https://github.com/PaulaGeier/EJERCICI-S-PYTHON-TUPLAS.git
 ```
 
 2. Abrí el archivo ejercicios.py en tu editor.
